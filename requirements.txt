@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+black
+Ipython
+beartype
+mypy
+pylint
+python-dotenv
