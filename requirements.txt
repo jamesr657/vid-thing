@@ -7,3 +7,6 @@ beartype
 mypy
 pylint
 python-dotenv
+openpyxl
+beautifulsoup4
+selenium

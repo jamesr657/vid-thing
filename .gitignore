@@ -4,3 +4,7 @@ venv
 
 # Setting variables.
 .vscode
+
+
+# Random?
+__pycache__
